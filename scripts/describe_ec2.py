@@ -25,5 +25,5 @@ while True:
 
     next_token = response.get('NextToken')
 
-    if not next_token   :
+    if not next_token:
         break
