@@ -1,0 +1,9 @@
+aws:
+  region: 'REGIÃO'
+  access_key: 'SUA_CHAVE_DE_ACESSO'
+  secret_key: 'SUA_CHAVE_SECRETA'
+
+instances:
+  - 'ID_EC2'
+
+retention_seconds: 10
