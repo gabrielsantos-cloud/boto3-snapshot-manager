@@ -1,8 +1,5 @@
 # Boto3 Snapshot Manager
 
-![Python](https://img.shields.io/badge/python-3.7%2C%203.8%2C%203.9-blue)
-![License](https://img.shields.io/github/license/gabrielsantos-cloud/boto3-snapshot-manager)
-
 Este repositório contém um script em Python para gerenciar snapshots (instantâneos) de volumes EBS (Elastic Block Store) na AWS utilizando o SDK Boto3.
 
 ## Funcionalidades
